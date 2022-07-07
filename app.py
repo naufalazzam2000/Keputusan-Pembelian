@@ -45,7 +45,11 @@ def preprocessDataAndPredict(Umur, Gaji):
     print(test_data)
     
     #open file
+<<<<<<< HEAD
     file = open("randomforest_iklan_model.pkl","rb")
+=======
+    file = open("knn_iklan_model.pkl","rb")
+>>>>>>> 08e4a90a681ee7e45a0c9f03be49831e1ac5180a
     
     #load trained model
     trained_model = joblib.load(file)
