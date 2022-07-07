@@ -1,3 +1,3 @@
 # Prediksi Transaksi Konsumen
 
-web deployment : https://iklan-sosmed.herokuapp.com/
+web deployment : https://si-angan-app.herokuapp.com/
